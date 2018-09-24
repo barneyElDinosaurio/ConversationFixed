@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary500">#00aff0</color>
+    <color name="primary700">#0b81b3</color>
+    <color name="primary800">#ff026100</color>
+    <color name="primary900">#ff024500</color>
+    <color name="accent">#ff0091ea</color>
+    <color name="black87">#de000000</color>
+    <color name="black54">#8a000000</color>
+    <color name="black26">#42000000</color>
+    <color name="black12">#1f000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="white70">#b2ffffff</color>
+    <color name="white12">#1fffffff</color>
+    <color name="grey50">#fffafafa</color>
+    <color name="grey200">#ffeeeeee</color>
+    <color name="grey500">#ff9e9e9e</color>
+    <color name="grey800">#ff424242</color>
+    <color name="grey900">#ff282828</color>
+    <color name="red500">#fff44336</color>
+    <color name="red800">#ffc62828</color>
+    <color name="orange500">#ffff9800</color>
+    <color name="green500">#015E54</color>
+    <color name="green501">#E0FDC5</color>
+    <color name="numberscalculator">#ffffff</color>
+    <color name="numberscalculatorcolor">#00aff0</color>
+    <color name="operatorNumbers">#ffffff</color>
+    <color name="operatorNumbersletter">#00aff0</color>
+
+
+
+    <color name="yellow1">#F9E60E</color>
+    <color name="yellow2">#F9F89D</color>
+    <color name="orange4">#FF9B4A</color>
+    <color name="orange5">#F77D19</color>
+    <color name="blue2">#19FCDA</color>
+    <color name="blue25">#D9F7F2</color>
+    <color name="grey05">#ACA899</color>
+    <color name="white1">#FFFFFF</color> <!-- This is the border for the pressed button -->
+    <color name="white2">#DDDDDD</color>
+    <color name="black42">#000000</color> <!-- This is for the pressed buttons -->
+    <color name="drkgray3">#545454</color> <!-- This is for the lighter buttons -->
+    <color name="drkgray5">#6E6E6E</color> <!-- This is for the lighter buttons -->
+    <color name="drkgray35">#303030</color> <!-- This is for the darker buttons -->
+    <color name="drkgray36">#3B3B3B</color> <!-- This is for the darker buttons -->
+    <color name="drkred35">#B51414</color> <!-- This is for the clear button -->
+    <color name="drkred36">#CF0E0E</color> <!-- This is for the clear button -->
+
+</resources>
